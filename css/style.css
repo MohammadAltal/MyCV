@@ -1,0 +1,90 @@
+.main-block{
+	margin-top:15px;
+}
+
+.main-block .left-block{
+	box-shadow:0px 0px 10px 4px #AAA;
+	padding:0px;
+	margin-bottom:30px;
+	        
+}
+
+.main-block .left-block .img{
+	background-image:url(../img/CEO.jpg);
+	height:400px;
+	background-size:cover;
+	color:#fff;
+	padding-top:360px;
+	font-size:28px;
+}
+.main-block .left-block .img .name{
+	background-color:#0260b2;
+	opacity:0.7;
+	padding-left:20px;
+}
+
+
+
+.main-block .left-block .info{
+	padding:20px;
+	line-height:2em;
+}
+
+.main-block .left-block .info i{
+	padding-right:5px;
+}
+
+.main-block .right-block{
+	padding:0px;
+}
+
+.main-block .right-block .education, .experience{
+		box-shadow:0px 0px 10px 4px #AAA;
+		padding:10px 20px;
+		padding-bottom:20px;
+		margin-bottom:30px;
+}
+
+.main-block .right-block .education  .p1 h3{
+	margin-bottom:-5px;
+}
+
+.main-block .right-block .education  .p1 p{
+	padding:5px 15px;
+}
+.main-block .right-block .education  .p1 i{
+	padding-left:10px;
+	font-size:1.2em;
+}
+
+.main-block .right-block .experience  .p1 h3{
+	margin-bottom:-5px;
+}
+
+.main-block .right-block .experience  .p1 p{
+	padding:5px 15px;
+}
+.main-block .right-block .experience  .p1 i{
+	padding-left:10px;
+	font-size:1.2em;
+}
+
+.footer{
+	padding:30px;
+	background-color:#000;
+	color:#fff;
+	margin-top:50px;
+	background-color:#0260b2;
+}
+
+.footer a i{
+	color:#fff;
+	margin:5px;
+	font-size:1.5em;
+}
+
+
+i{
+	color:#0260b2;
+}
+
